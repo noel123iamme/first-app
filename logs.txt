@@ -1,0 +1,5 @@
+2015-03-07T03:53:59.615820+00:00 heroku[api]: Enable Logplex by noel.deguzman@me.com
+2015-03-07T03:53:59.615880+00:00 heroku[api]: Release v2 created by noel.deguzman@me.com
+2015-03-07T03:56:35.077178+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=fathomless-reaches-3600.herokuapp.com request_id=5abda10a-4bed-4776-b9fa-9b435ae066b8 fwd="73.170.31.177" dyno= connect= service= status=502 bytes=
+2015-03-07T03:56:35.457112+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=fathomless-reaches-3600.herokuapp.com request_id=3d523f3d-1cac-46a3-830a-c6f922382f8e fwd="73.170.31.177" dyno= connect= service= status=502 bytes=
+2015-03-07T04:05:13.403521+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=fathomless-reaches-3600.herokuapp.com request_id=137b01c6-112d-47fc-9d83-32ad0e92eb01 fwd="73.170.31.177" dyno= connect= service= status=502 bytes=
